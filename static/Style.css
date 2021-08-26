@@ -116,3 +116,15 @@ img{
     text-decoration: none;
     cursor: pointer;
 }
+
+ .logout{
+     margin-top: 15px;
+     text-align: right;
+     margin-right: 30px ;
+ }
+
+ .change{
+     margin-top : 15px;
+     text-align: right ;
+     margin-right : 30px;
+ }
